@@ -50,9 +50,4 @@ This script is licensed under the MIT License - see the [LICENSE](LICENSE) file 
 
 Feel free to fork the repository, make changes, and submit pull requests. If you encounter any issues or have suggestions, please open an issue in the repository.
 
-## Contact
 
-For questions or feedback, contact [Your Name] at [Your Email].
-```
-
-This README file provides a clear and concise description of your script, its features, and how to use it. It also includes instructions for running the script and details on customizing the password generation parameters.
